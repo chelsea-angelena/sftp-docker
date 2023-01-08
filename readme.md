@@ -5,6 +5,7 @@ Example SFTP server running inside of a docker container for learning/testing pu
 ## References and Resources
 
 [Leiland - Medium Article](https://medium.com/@lejiend/create-sftp-container-using-docker-e6f099762e42)
+
 [Edward S. - Hostinger-Tutorial](https://www.hostinger.my/tutorials/how-to-use-sftp-to-safely-transfer-files/)
 
 ## Run in Docker:
@@ -17,7 +18,7 @@ _note:_ you will need to set your own password in the dockerfile, or use the pro
 
 #### **_All_ of these instructions have been directly taken and condensed from Edward S's tutorial:**
 
-#### Edward S. [Hostinger-Tutorial](https://www.hostinger.my/tutorials/how-to-use-sftp-to-safely-transfer-files/)
+####  [Edward S. - Hostinger-Tutorial](https://www.hostinger.my/tutorials/how-to-use-sftp-to-safely-transfer-files/)
 
 ### Connect
 
